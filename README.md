@@ -1,2 +1,0 @@
-# Tomochain-Hackathon
-Decentralized applications
