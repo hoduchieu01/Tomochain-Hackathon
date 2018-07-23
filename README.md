@@ -3,7 +3,7 @@
 ## Decentralized applications
 
 #### Version: Vote-Eth | Vote-Token | Demo
---------------------------------------------------------------------------
+
 ## Install
 Install npm  `npm install`  
 Install truffle  `npm -g install truffle`   
