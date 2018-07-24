@@ -3,7 +3,7 @@
 
 <head>
     <!-- Theme Made By www.w3schools.com - No Copyright -->
-    <title>Bootstrap Theme Simply Me</title>
+    <title>Decentralized Voting Application (Ropsten Testnet)</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -19,7 +19,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-default bg-0">
         <div class="navbar-header">
-            <h3 class="title">Voting Application</h3>
+            <h3 class="title">Decentralized Voting Application (Ropsten Testnet)</h3>
         </div>
     </nav>
 
@@ -75,10 +75,12 @@
         <div class="col-sm-7 form bg-5">
             <h2>Vote for Candidate</h2>
             <div id="msg"></div>
-            <input type="text" id="candidate" class="form-control" placeholder="Enter the candidate name" onkeypress='App.validateName(event)'/>
+            <input type="text" id="candidate" class="form-control" placeholder="Enter the candidate name" onkeypress='App.validateName(event)'
+            />
             <br>
             <br>
-            <input type="text" id="vote-tokens" class="form-control" placeholder="Total no. of tokens to vote" onkeypress='App.validateNumber(event)'/>
+            <input type="text" id="vote-tokens" class="form-control" placeholder="Total no. of tokens to vote" onkeypress='App.validateNumber(event)'
+            />
             <br>
             <br>
             <a href="#" onclick="App.voteForCandidate(); return false;" class="btn btn-primary">Vote</a>
@@ -87,7 +89,8 @@
             <div class="col-sm-12 form">
                 <h2>Purchase Tokens</h2>
                 <div id="buy-msg"></div>
-                <input type="text" id="buy" class="col-sm-8" placeholder="Number of tokens to buy" onkeypress='App.validateNumber(event)'/>
+                <input type="text" id="buy" class="col-sm-8" placeholder="Number of tokens to buy" onkeypress='App.validateNumber(event)'
+                />
                 <a href="#" onclick="App.buyTokens(); return false;" class="btn btn-primary">Buy</a>
             </div>
             <!-- <div class="col-sm-12 margin-top-3 form">
@@ -102,9 +105,6 @@
         </div>
     </div>
     <!-- Footer -->
-    <footer class="container-fluid bg-footer text-center">
-        <p>SHIELD@DevC</p>
-    </footer>
 
 </body>
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
