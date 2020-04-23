@@ -1,5 +1,6 @@
 # Tomochain Hackathon
-I led a team of 4 people to participate in Tomochain Hackathon with idea - voting application by blockchain technology. Our team got into top 10 of Tomochain Hackathon featured on the most read Vietnamese Newspaper (VnExpress) (https://vnexpress.net/projects/tomochain-hackathon-2018-24h-thay-doi-the-gioi-3793300/index.html)
+
+I led a team of 4 people to participate in Tomochain Hackathon with an idea - voting application by blockchain technology. Our team got into top 10 of Tomochain Hackathon featured on the most read Vietnamese Newspaper (VnExpress) (https://vnexpress.net/projects/tomochain-hackathon-2018-24h-thay-doi-the-gioi-3793300/index.html)
 
 ## Decentralized applications
 
